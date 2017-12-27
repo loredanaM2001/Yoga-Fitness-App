@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vidit/.android/build-cache/d3907496ad0ea7f3dfd6bc1a8f55fd988fef1cf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="/home/vidit/Desktop/AndroidStudioProjects/YogaFitnessApp/app/build/intermediates/pre-dexed/debug/classes_ac7a518264fbd790780db81e3fd7fd16cdd71ca3.jar" />
+    </item>
+
+</items>
