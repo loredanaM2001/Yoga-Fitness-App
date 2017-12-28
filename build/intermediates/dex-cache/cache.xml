@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/home/vidit/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/home/vidit/Desktop/AndroidStudioProjects/YogaFitnessApp/app/build/intermediates/pre-dexed/debug/sqliteassethelper-2.0.1_fbe45d0502c74557fb3d211bb3787565a73fa434.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/vidit/.android/build-cache/d3907496ad0ea7f3dfd6bc1a8f55fd988fef1cf7/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
