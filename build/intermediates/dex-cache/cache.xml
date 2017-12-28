@@ -3,6 +3,24 @@
 
     <item
         is-multidex="false"
+        jar="/home/vidit/.android/build-cache/8b74ec3d07a40b208a42d8b979543f17991d2b06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a46c277098d453b4886db28568d627c283e53a04">
+        <dex dex="/home/vidit/Desktop/AndroidStudioProjects/YogaFitnessApp/app/build/intermediates/pre-dexed/debug/classes_9d773a32543037b5a2173be7c036260acc314165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vidit/.android/build-cache/3e21d968e3d2e876a2a6ed868db4ab6d8bf86842/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2eb1a6609366965ccd620d926fb58f3998e365eb">
+        <dex dex="/home/vidit/Desktop/AndroidStudioProjects/YogaFitnessApp/app/build/intermediates/pre-dexed/debug/classes_030f86f98b002a86a5dd3ce95c956a43228eb986.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/vidit/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
         jumboMode="false"
         optimize="true"
